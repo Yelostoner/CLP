@@ -280,7 +280,7 @@
                     "help": {
                         "online": "https://github.com/Legion2/CorsairLightingProtocolBoards"
                     },
-                    "url": "https://github.com/Legion2/CorsairLightingProtocolBoards/releases/download/avr-0.3.1/CorsairLightingProtocolBoards-avr-0.3.1.zip",
+                    "url": "https://github.com/Yelostoner/CLP/blob/main/CorsairLightingProtocolBoards-avr-0.3.1.zip",
                     "archiveFileName": "CorsairLightingProtocolBoards-avr-0.3.1.zip",
                     "checksum": "SHA-256:c332250e89f853c590b1701408811293c22c5dc06a5444565c1de9cfa5f552ac",
                     "size": 3427,
